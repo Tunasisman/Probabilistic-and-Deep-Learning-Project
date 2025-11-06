@@ -11,7 +11,7 @@ PADL Submission 2/
 ├── padl.ipynb                 # Main Jupyter Notebook with full analysis and models
 ├── LICENSE                    # MIT License
 ├── README.md                  # Project documentation
-└── (other model/output files if added)
+└── (other model/output files)
 ```
 ---
 
